@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.0,
+  "p95_latency_ms": 0.0,
+  "mean_latency_ms": 0.0,
+  "n_evaluated": 0,
+  "n_errors": 500,
+  "total_cost_usd": 0.0,
+  "model": "Qwen3-32B",
+  "n_total": 500
+}

@@ -1,0 +1,12 @@
+{
+  "model": "Llama-4-Scout-17B",
+  "benchmark": "gsm8k",
+  "n_total": 200,
+  "n_evaluated": 200,
+  "n_errors": 0,
+  "accuracy": 0.965,
+  "p95_latency_ms": 3446.816,
+  "mean_latency_ms": 2724.502,
+  "total_cost_usd": 0.0,
+  "seed": 42
+}

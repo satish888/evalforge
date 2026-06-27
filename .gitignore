@@ -1,0 +1,48 @@
+# Caches and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Build and package metadata
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Local secrets
+.env
+.env.*
+secrets.json
+
+# Caches for benchmarks
+benchmark_cache/
+mmlu_cache/
+models/
+*.gguf
+*.jsonl
+
+# OS metadata
+.DS_Store
+Thumbs.db

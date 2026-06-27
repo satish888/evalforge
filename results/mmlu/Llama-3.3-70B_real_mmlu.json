@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.8266384778012685,
+  "p95_latency_ms": 2848.401959997136,
+  "mean_latency_ms": 3669.800274628589,
+  "n_evaluated": 473,
+  "n_errors": 27,
+  "n_errors_note": "3 non-429 errors + 24 HTTP-429 rate-limit exhaustions (all 3 retries failed, silently dropped by runner bug -- fixed in run_real_mmlu.py). Accuracy is over 473 successfully scored questions.",
+  "total_cost_usd": 0.0,
+  "model": "Llama-3.3-70B",
+  "n_total": 500
+}

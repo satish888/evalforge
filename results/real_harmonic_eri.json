@@ -1,0 +1,45 @@
+{
+  "sla_ms": 5000.0,
+  "weights": {
+    "accuracy": 0.4,
+    "latency": 0.4,
+    "cost": 0.2
+  },
+  "models": [
+    {
+      "model": "Mistral-Small-3.1",
+      "accuracy": 0.77,
+      "p95_ms": 2232.4608349852497,
+      "lat_norm": 0.554,
+      "eri": 0.693
+    },
+    {
+      "model": "Llama-3.3-70B",
+      "accuracy": 0.8266384778012685,
+      "p95_ms": 2848.401959997136,
+      "lat_norm": 0.43,
+      "eri": 0.62
+    },
+    {
+      "model": "Llama-3.1-8B",
+      "accuracy": 0.628,
+      "p95_ms": 2969.140325006447,
+      "lat_norm": 0.406,
+      "eri": 0.549
+    },
+    {
+      "model": "Llama-4-Scout-17B",
+      "accuracy": 0.78,
+      "p95_ms": 3279.9395949667082,
+      "lat_norm": 0.344,
+      "eri": 0.533
+    },
+    {
+      "model": "GPT-OSS-120B",
+      "accuracy": 0.8814655172413793,
+      "p95_ms": 4126.159895028104,
+      "lat_norm": 0.175,
+      "eri": 0.34
+    }
+  ]
+}

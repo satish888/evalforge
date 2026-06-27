@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.77,
+  "p95_latency_ms": 2232.4608349852497,
+  "mean_latency_ms": 1133.1173388016177,
+  "n_evaluated": 500,
+  "n_errors": 0,
+  "total_cost_usd": 0.0,
+  "model": "Mistral-Small-3.1",
+  "n_total": 500
+}

@@ -1,0 +1,12 @@
+{
+  "model": "Mistral-Small-3.1",
+  "benchmark": "gsm8k",
+  "n_total": 200,
+  "n_evaluated": 200,
+  "n_errors": 0,
+  "accuracy": 0.95,
+  "p95_latency_ms": 2642.627,
+  "mean_latency_ms": 1732.346,
+  "total_cost_usd": 0.0,
+  "seed": 42
+}

@@ -1,0 +1,12 @@
+{
+  "model": "Llama-3.1-8B",
+  "benchmark": "gsm8k",
+  "n_total": 200,
+  "n_evaluated": 200,
+  "n_errors": 0,
+  "accuracy": 0.88,
+  "p95_latency_ms": 2821.377,
+  "mean_latency_ms": 864.721,
+  "total_cost_usd": 0.0,
+  "seed": 42
+}

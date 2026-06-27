@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.78,
+  "p95_latency_ms": 3279.9395949667082,
+  "mean_latency_ms": 2530.879085599561,
+  "n_evaluated": 500,
+  "n_errors": 0,
+  "total_cost_usd": 0.0,
+  "model": "Llama-4-Scout-17B",
+  "n_total": 500
+}

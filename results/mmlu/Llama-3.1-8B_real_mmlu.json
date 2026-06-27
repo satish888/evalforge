@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.628,
+  "p95_latency_ms": 2969.140325006447,
+  "mean_latency_ms": 2622.8348611993715,
+  "n_evaluated": 500,
+  "n_errors": 0,
+  "total_cost_usd": 0.0,
+  "model": "Llama-3.1-8B",
+  "n_total": 500
+}

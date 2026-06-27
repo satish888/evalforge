@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.8814655172413793,
+  "p95_latency_ms": 4126.159895028104,
+  "mean_latency_ms": 2744.290651077508,
+  "n_evaluated": 464,
+  "n_errors": 36,
+  "total_cost_usd": 0.0,
+  "model": "GPT-OSS-120B",
+  "n_total": 500
+}
